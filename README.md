@@ -3,8 +3,6 @@
 ![platepals_demo](assets/platepals_demo.gif)
 
 The goal of this project is to develop a machine learning application that accurately identifies the types of food present in a user-uploaded image. Based on the foods identified, the application will provide the user with relevant nutritional information and personalized dietary recommendations. This project will involve key phases of data preprocessing, model development, and application interface development, leveraging TensorFlow's Food-101 dataset.
-AC215 - PlatePals
-==============================
 
 ### Blog Post Link ###
 [Link]()
